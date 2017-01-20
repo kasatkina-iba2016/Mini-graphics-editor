@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/">
+        <file>black.png</file>
+        <file>blue.png</file>
+        <file>clear-gray.png</file>
+        <file>close_win.png</file>
+        <file>copy.png</file>
+        <file>cur_brush.png</file>
+        <file>cursor.png</file>
+        <file>curve.png</file>
+        <file>cut.png</file>
+        <file>ellipse.png</file>
+        <file>exit.png</file>
+        <file>fill.png</file>
+        <file>green.png</file>
+        <file>lastic.png</file>
+        <file>left.png</file>
+        <file>line.png</file>
+        <file>new.png</file>
+        <file>object-rotate-right.png</file>
+        <file>open.png</file>
+        <file>paste.png</file>
+        <file>pencil.png</file>
+        <file>rectangle.png</file>
+        <file>redo.png</file>
+        <file>save.png</file>
+        <file>saveAs.png</file>
+        <file>spray.png</file>
+        <file>text.png</file>
+        <file>undo.png</file>
+        <file>window-close.png</file>
+        <file>zoom-out.png</file>
+        <file>romb.png</file>
+        <file>trian.png</file>
+        <file>black_y.png</file>
+        <file>new_red.png</file>
+        <file>yellow.png</file>
+        <file>magenta.png</file>
+        <file>network-64.png</file>
+        <file>gray.png</file>
+        <file>white.png</file>
+        <file>white1.png</file>
+        <file>5555.png</file>
+    </qresource>
+</RCC>
